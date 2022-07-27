@@ -1,0 +1,14 @@
+.li{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid black;
+}
+.btn{
+    margin-top: auto;
+    margin-bottom: auto;
+    height:  25px;
+    margin-right: 25px;
+    background-color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
